@@ -6,6 +6,44 @@ Full-Stack .NET & Angular Developer | Building Scalable Web Applications
 
 ---
 
+```
+                                                  jaykimsly@github
+                                                  -----------------
+..                                                OS: Windows 11 / macOS / Linux
+.....                                             Uptime: Since National Diploma, TUT
+..........                                        Host: Digital Solution Foundry
+..................                                Kernel: C# / .NET Core
+........................................... ....  IDE: Visual Studio 2022, VS Code
+................................................  
+................................................  Languages.Programming: C#, TypeScript, JavaScript
+:::::::::.......................................  Languages.Human: English, Zulu, Siswati
+::::::::::::::::::::............................  
+::::::::::::::::::::::::::::::::::::::::::::::::  Backend: ASP.NET Core (MVC/Razor/API)
+::::::::::::::::::::::::::::::::::::::::::::::::  Backend: Azure Functions, Swagger
+--::::::::::::::::::::::::::::::::::::::::::::::  Frontend: Angular, React, Vue
+------------:-==+++=-:::::::::::::::::::::::::::  Mobile: Flutter
+-----------=*%%%%%%###+-::::::::::::::::::::::::  Database: SQL Server, Stored Procs
+========-=#%@%%###*#####*-----------------------  Database: Multi-Tenant DB Architecture
++++++++++%@%%#*+==-===++**----------------------  Cloud: Azure, Azure DevOps, CI/CD
+********#%#**++=--:::--==*+---------------------  Cloud: Azure Cognitive Svcs (Speech/Translate)
+#######*%%****+=-:.::--==++=====================  CMS/API: Strapi, Custom API Gateways
+########%%#**+=--:..::-===+=====================  
+%%%%####%%%*+++==-:-==-=+++=====================  Hobbies.Dev: Game Dev (Unreal/Unity), OSS
+%%%%%%%%%%%%**=+*+-++++=*++==+++++++++++++++++++  Hobbies.Life: Gaming, Solar Setups, Farming
+%%%%%%%%@%#**+=+*=--=-----=+=+++++++++++++++++++  
+%%%%%%%%%%*=-:=*+=:--::::-=*++++++++++++++++++++  Contact: ---------------------------
+@@%%%%%%%@#+==+**+===:---=*#++++++++++++++++++==  Email: jnmhlongo@hotmail.com
+%%%%%%%%%%%%**##*====++++#%+====================  LinkedIn: linkedin.com/in/jaykimsly
+%%%%%%%###%@%#**=-:---+#%@#--===--==============  Portfolio: jaykimsly.co.za
+%%%%%%###**%@@%***+===%%%%#+===-=--------=======  
+%%%%%%##**#%@%@%#*+++#@%%#*#######*++====--==---  GitHub Stats: -----------------------------
+%%%%%%%%%%@@@%%@@%@%@@%%#***##%%%########*=--=--  Focus: Enterprise Software, Clean Arch
+%%%%%%@@@%%%@@@%%%%%%%%#****#%##*##%######*+====  Goal: Tech Leadership & Entrepreneurship
+%%%%%%%%%%%%%%%%%%%%%%%##**###**###%######****+=  Role: Full-Stack .NET & Angular Dev
+```
+
+---
+
 ## 👨‍💻 About Me
 
 ```yaml
@@ -18,15 +56,21 @@ current_role:
 specialization:
   - C#
   - .NET Core
-  - ASP.NET Core
+  - ASP.NET Core (MVC / Razor Pages / Web API)
   - Angular
+  - Vue.js
+  - Flutter
   - TypeScript
-  - SQL Server
+  - SQL Server (Multi-Tenant DB Design, Stored Procedures)
 
-cloud:
+cloud_and_integration:
   - Microsoft Azure
-  - Azure DevOps
-  - CI/CD
+  - Azure Functions
+  - Azure Cognitive Services (Speech-to-Text, Translation)
+  - Azure DevOps / CI-CD
+  - Custom API Gateways
+  - Swagger / OpenAPI
+  - Strapi (Headless CMS)
 
 currently_focused_on:
   - Enterprise Software Development
@@ -50,8 +94,12 @@ goal:
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -61,6 +109,10 @@ goal:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### CMS / Docs
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
@@ -77,6 +129,12 @@ goal:
 ✔ Enterprise Web Application Development
 
 ✔ REST API Design & System Integration
+
+✔ Custom API Gateway & Microservice Architecture Design
+
+✔ Multi-Tenant Database Design & Stored Procedures
+
+✔ Azure Cognitive Services (Speech & Translation) Integration
 
 ✔ Azure DevOps & CI/CD Automation
 
