@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Joachim Mhlongo 👋</h1>
+<h1 align="center">Hi, I'm Joachim Nkhululeko Mhlongo 👋</h1>
 
 <h3 align="center">
 Full-Stack .NET & Angular Developer | Building Scalable Web Applications
