@@ -30,8 +30,11 @@ jaykimsly@jhb:~$ █
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaykimsly&show_icons=true&hide_border=true&theme=chartreuse-dark" alt="jaykimsly's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykimsly&layout=compact&hide_border=true&theme=chartreuse-dark" alt="jaykimsly's top languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaykimsly&theme=github_dark" alt="jaykimsly's GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaykimsly&theme=github_dark" alt="jaykimsly's top languages" />
+</p>
+<p>
+  <img height="160" src="https://streak-stats.demolab.com?user=jaykimsly&theme=chartreuse-dark&hide_border=true" alt="jaykimsly's contribution streak" />
 </p>
 
 ```console
