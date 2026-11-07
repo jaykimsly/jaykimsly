@@ -1,122 +1,46 @@
-<h1 align="center">Joachim Nkhululeko Mhlongo</h1>
+```console
+jaykimsly@jhb:~$ whoami
+Joachim Nkhululeko Mhlongo — full-stack software developer
 
-<h3 align="center">Full Stack Software Developer | C# • .NET • JavaScript • TypeScript</h3>
+jaykimsly@jhb:~$ cat about.txt
+I build practical, scalable web apps end to end:
+frontend, APIs, databases, cloud and the pipelines in between.
+Based in Johannesburg. Speaks English, isiZulu and siSwati.
 
-<p align="center">
-  Building practical, scalable web applications across frontend, backend, databases, cloud and modern development workflows.
+jaykimsly@jhb:~$ ls ~/stack
+c#  .net  typescript  javascript  angular  react  next.js  node
+postgres  sql-server  mongodb  docker  azure  git
+
+jaykimsly@jhb:~$ █
+```
+
+![C#](https://img.shields.io/badge/-C%23-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![.NET](https://img.shields.io/badge/-.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/-Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaykimsly&show_icons=true&hide_border=true&theme=chartreuse-dark" alt="jaykimsly's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykimsly&layout=compact&hide_border=true&theme=chartreuse-dark" alt="jaykimsly's top languages" />
 </p>
 
----
+```console
+jaykimsly@jhb:~$ ./contact --list
+web       https://www.jaykimsly.co.za
+linkedin  https://linkedin.com/in/jaykimsly
+x         https://x.com/JayKimSly
+```
 
-## About Me
-
-I am a driven and dynamic full-stack developer with experience across frontend and backend development. I work with modern web technologies, adapt quickly to new environments and focus on delivering reliable, high-quality software solutions.
-
-My professional experience includes enterprise web development with C# and ASP.NET, frontend development with Angular and React, JavaScript backend development with Node.js, relational and NoSQL databases, cloud deployment and DevOps workflows.
-
-### Professional Experience
-
-**Software Developer - Digital Solution Foundry**  
-March 2023 - June 2026
-
-- Developed and maintained scalable web applications using C#, ASP.NET MVC and ASP.NET Web API.
-- Designed and implemented database solutions using Microsoft SQL Server.
-- Used Microsoft Azure and Azure DevOps Server for cloud deployment and project management.
-- Collaborated with cross-functional teams in agile development environments.
-- Maintained code quality through Git version control and automated testing.
-
-**Full Stack Developer Student Intern - The Digital Academy**  
-June 2022 - May 2023
-
-- Developed full-stack applications with a focus on frontend and backend development.
-- Worked with Angular 2+, Bootstrap, Node.js and PostgreSQL.
-- Designed application wireframes and interfaces using Figma.
-- Built responsive applications using MEAN and PERN stack technologies.
-- Used Git, Docker and Heroku for version control and deployment.
-- Led team projects and mentored fellow developers.
-
-**Student Assistant - Tshwane University of Technology**  
-March 2019 - December 2019
-
-- Assisted with programming fundamentals, Object-Oriented Programming and Data Structures.
-- Supported students with programming languages, development environments and software concepts.
-- Assisted faculty with technical requirements and system administration tasks.
-
----
-
-## Education
-
-**National Diploma in Information Technology**  
-Tshwane University of Technology, South Africa  
-2016 - 2019  
-Specialization: Intelligent Industrial Systems
-
-**Matriculation Certificate**  
-Kamhola Senior Secondary School  
-2013
-
----
-
-## Technical Skills
-
-### Programming Languages
-C# · JavaScript · TypeScript · C++ · HTML · CSS · SQL
-
-### Frontend
-Angular 2+ · React.js · Bootstrap
-
-### Backend
-Node.js · ASP.NET · ASP.NET MVC · ASP.NET Web API · .NET Framework
-
-### Databases
-PostgreSQL · Microsoft SQL Server · MongoDB · MySQL
-
-### Development Stacks
-MEAN Stack · PERN Stack
-
-### Tools & Platforms
-Git · Docker · Heroku · Figma · Microsoft Azure · Azure DevOps Server
-
-### Core Competencies
-Problem-solving · Attention to detail · Communication · Team leadership · System integration · Testing
-
----
-
-## Languages
-
-English: Bilingual  
-Zulu: Bilingual  
-Siswati: Native
-
----
-
-## Volunteer Experience
-
-**Electronics Tutor - Geekulcha**  
-March 2019
-
-Provided electronics tutoring and technical guidance in educational settings.
-
----
-
-## Services
-
-Computer Repair · IT Consulting · Web Development · Application Development
-
----
-
-## Selected Projects
-
-My portfolio includes web and software projects covering business websites, educational platforms, application systems and other full-stack work.
-
-Portfolio: **https://www.jaykimsly.co.za**  
-Blazor Portfolio Repository: **https://github.com/jaykimsly/portfolio-blazor**
-
----
-
-## Connect
-
-- Portfolio: https://www.jaykimsly.co.za
-- LinkedIn: https://linkedin.com/in/jaykimsly
-- GitHub: https://github.com/jaykimsly
-- Email: jnmhlongo@hotmail.com
+[![Website](https://img.shields.io/badge/-jaykimsly.co.za-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jaykimsly.co.za)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/jaykimsly)
+[![X](https://img.shields.io/badge/-@JayKimSly-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/JayKimSly)
